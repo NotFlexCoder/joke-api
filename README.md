@@ -28,7 +28,7 @@ GET /api
 ✅ Example Request
 
 ```bash
-curl "http://localhost:3000/api"
+curl "http://localhost:3000"
 ```
 
 ✅ Example Response

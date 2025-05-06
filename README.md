@@ -69,7 +69,7 @@ curl "http://localhost:3000"
 
 Watch the following video to learn how to deploy this API on Vercel:
 
-[![Watch the video](https://img.youtube.com/vi/n5yxR1aOmlw/hqdefault.jpg)](https://youtu.be/n5yxR1aOmlw)
+[![Watch the video](https://img.youtube.com/vi/BWS8Lve3wKY/hqdefault.jpg)](https://youtu.be/BWS8Lve3wKY)
 
 ## 📄 License
 
